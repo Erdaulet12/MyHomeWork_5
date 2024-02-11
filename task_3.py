@@ -1,8 +1,9 @@
 """task_3.py"""
 
+import time
 import asyncio
 import aiohttp
-import time
+
 
 # код подсмотрел, но вроде понял
 
